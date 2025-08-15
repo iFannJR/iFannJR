@@ -2,7 +2,7 @@ git hub
 <!---
 IFAN2005/IFAN2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> 
+--->  
 
 <h1 align="center">Hi 👋, I'm Ifan Arifandi</h1>
 <h3 align="center">Saya berasal dari Jawa Timur dan ingin bercita-cita menjadi Designer UI/UX atau Front-End Dev.Sedang berkuliah di POLITEKNIK NEGERI JEMBER</h3>
