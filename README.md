@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifannjr" alt="ifannjr" /></a> </p>
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khz_mha) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xvr_sys) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ifanaja2005@gmail.com) 
 
 # 💻 Tech Stack:
