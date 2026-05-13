@@ -30,14 +30,14 @@
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
 
 ```
-╔══════════════════════════════════════════╗
-║   ⚡ NAME    : Muhammad Fikri Arifandi   ║
-║   🦸 ALIAS   : ifan / fikri / iFannJR   ║
-║   📍 BASE    : Jember, East Java 🇮🇩     ║
-║   🎯 CLASS   : Frontend & Backend Dev   ║
-║   🔥 POWER   : Turning ideas into UI    ║
-║   💀 WEAKNESS: Databases... for now 😅  ║
-╚══════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║  ⚡ NAME      : Muhammad Fikri Arifandi         ║
+║    ALIAS     : ifan / fikri / iFannJR          ║
+║    BASE      : Jember, East Java               ║
+║    CLASS     : Frontend & Backend Dev          ║
+║    POWER     : Turning Ideas Into UI           ║
+║    WEAKNESS  : Databases... for now            ║
+╚════════════════════════════════════════════════╝
 ```
 
 > *"With great code comes great responsibility."* 🕷️
