@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jtup6ke3rfkvylzqvkg2tdx3pe&count=3&unique=true)](https://open.spotify.com/user/31jtup6ke3rfkvylzqvkg2tdx3pe)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=317ngtkwrj2lap77qvwvgp4ryy5y&count=3&unique=true)](https://open.spotify.com/user/317ngtkwrj2lap77qvwvgp4ryy5y)
 
 > 🎵 *Ganti `YOUR_SPOTIFY_USER_ID` dengan Spotify User ID kamu*
 
